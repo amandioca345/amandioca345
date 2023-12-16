@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandioca345&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
@@ -13,5 +12,5 @@
 <div align="center">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
 ![Snake animation](https://github.com/amandioca345/amandioca345/blob/output/github-contribution-grid-snake.svg)
